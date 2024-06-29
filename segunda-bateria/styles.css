@@ -23,3 +23,86 @@ body {
 }
 
 /* Escreva a partir daqui */
+.fundo {
+    background-color: #030406;
+}
+
+.esquerda {
+    align-items: center;
+    justify-content: center;
+    background-color: #A00000;
+    width: 30%;
+    display: flex;
+    border-radius: 0px 100% 100% 0px;
+}
+
+.centro {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    align-items: center;
+    height: 10%;
+    font-size: 18px;
+    color: #A00000;
+}
+
+.home {
+    color: #A00000;
+    display: flex;
+}
+
+.menu {
+    color: #A00000;
+    display: flex;
+}
+
+.login {
+    color: #0021D1;
+    display: flex;
+}
+
+.pilulas {
+    height: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.vermelha {
+    display: flex;
+    background-color: #A00000;
+    color: #FFFFFF;
+    height: 40px;
+}
+
+.azul {
+    background-color: #0021D1;
+    color: #FFFFFF;
+    height: 40px;
+}
+
+.ver {
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    background-color: #FFFFFF;
+}
+
+.part {
+    color: #A00000;
+}
+
+.cip {
+    color: #0021D1;
+}
+
+.direita {
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    background-color: #0021D1;
+    border-radius: 100% 0px 0px 100%;
+}
